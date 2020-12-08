@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00008B</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFE81F</color>
+
+    <color name="buttonText">#000000</color>
+    <color name="buttonBackground">	#FFFFFF</color>
+
+    <color name="colorPlayer">#FF8C00</color>
+    <color name="colorPlayerStroke">#3700B3</color>
+
+    <color name="colorSpeedUp">#0ED6C0</color>
+    <color name="colorSlowDown">#FF4C4E</color>
+    <color name="colorBounceBack">#077A80</color>
+    <color name="colorDestroy">#89034B</color>
+    <color name="colorGivePoints">#67E370</color>
+    <color name="colorTakePoints">#FFAE00</color>
+    <color name="colorGameOver">#FF0000</color>
+
+    <color name="colorTargetOne">#0ED6C0</color>
+    <color name="colorTargetTwo">#FF4C4E</color>
+    <color name="colorTargetThree">#077A80</color>
+    <color name="colorTargetFour">#89034B</color>
+    <color name="colorTargetFive">#67E370</color>
+    <color name="colorTargetSix">#FFAE00</color>
+</resources>

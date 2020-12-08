@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Space Defence</string>
+    <string name="string_button_start">Start</string>
+    <string name="string_button_high_scores">High Scores</string>
+    <string name="string_button_restart">Restart</string>
+
+    <string name="gameplay_score">Score: %1$s</string>
+    <string name="gameplay_add_point">+%1$s Points</string>
+
+    <string name="new_high_score">%1$s: %2$s (New High Score!)</string>
+    <string name="empty_high_score">%1$s: ----</string>
+    <string name="high_score">%1$s: %2$s</string>
+
+    <string name="game_over">Game Over</string>
+
+    <string name="emptyString"> </string>
+    <string name="speedUp">Speed Boost</string>
+    <string name="slowDown">Slow Down</string>
+    <string name="bounceBack">Bounce Back</string>
+    <string name="destroy">Destroy</string>
+    <string name="givePoints">+10 Points</string>
+    <string name="takePoints">-10 Points</string>
+    <string name="gameOver">Game Over</string>
+
+    <string name="accelerometerNotAvailable">Sorry, your device does not have an accelerometer.</string>
+</resources>
